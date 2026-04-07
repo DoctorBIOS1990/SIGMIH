@@ -169,7 +169,7 @@ The system prioritizes:
   </tbody>
 </table>
 
-Recommended:
+### Recommended:
 
 * Authentication flow
 * Patient management
