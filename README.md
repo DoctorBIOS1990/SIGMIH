@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-**MedCore Lite** is a secure, scalable, and resilient healthcare management API designed to operate in **low-connectivity and infrastructure-constrained environments**.
+**SIGMIH** is a secure, scalable, and resilient healthcare management designed to operate in **low-connectivity and infrastructure-constrained environments**.
 
 This project reflects real-world engineering practices applied to healthcare systems, including **secure authentication, fault-tolerant data persistence, and future interoperability design**.
 
