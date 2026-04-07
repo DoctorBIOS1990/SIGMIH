@@ -1,6 +1,4 @@
-# SIGMIH
-
-# 🏥 Resilient & Secure Healthcare Management API
+# 🏥 SIGMIH - Resilient & Secure Healthcare Management API
 
 ## 📌 Overview
 
@@ -162,7 +160,14 @@ The system prioritizes:
 ---
 
 ## 📷 Screenshots
-
+<table>
+  <tbody>
+      <tr>
+       <td><img src="https://doctorbios1990.github.io/assets/images/webs/thumbs/th-sigmih.webp" width="800"/></td>
+       <td> <img src="https://doctorbios1990.github.io/assets/images/webs/sigmih.webp" width="1000" /></td>
+      </tr>
+  </tbody>
+</table>
 
 
 Recommended:
