@@ -22,11 +22,12 @@ This project reflects real-world engineering practices applied to healthcare sys
 
 ### 🔐 Authentication & Authorization
 
-* JWT-based authentication
-* Role-Based Access Control (RBAC):
-
-  * Admin → full access
-  * Doctor → restricted access
+  * JWT-based authentication
+  * Role-Based Access Control (RBAC):
+  * Administrator → full access
+  * Statistical → restricted access
+  * Supervisor → restricted access
+  * Admission → restricted access
 
 ---
 
@@ -34,24 +35,25 @@ This project reflects real-world engineering practices applied to healthcare sys
 
 * Full CRUD operations
 * UUID-based identifiers (prevents IDOR vulnerabilities)
-* Structured patient data model
+* Structured patient, wards, admissions, discharges, transfers, etc. data model
 
 ---
 
-### 📅 Appointment System
+### 📅 Process monitoring
 
-* Appointment scheduling
-* Status tracking (pending / completed)
-* Filtering by patient
+* Status (admissions/discharges)
+* Resource availability
+* Room availability
+* Daily statistical/probabilistic closing
+* Analysis of indicators by time range
 
 ---
 
 ### 📜 Audit Logging
 
 * User activity tracking:
-
-  * Authentication events
-  * Data creation & updates
+* Authentication events
+* Data creation & updates
 * Designed for traceability and accountability
 
 ---
@@ -122,7 +124,7 @@ Modular and scalable architecture:
 * `appointments` → scheduling system
 * `logs` → auditing & traceability
 
-Design principles:
+## Design principles:
 
 * Separation of concerns
 * Modularization
@@ -152,7 +154,6 @@ The system prioritizes:
 * Query optimization based on business logic
 * Efficient data handling strategies
 * Clean code practices:
-
   * Modular design
   * Guard clauses
   * Early returns
