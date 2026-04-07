@@ -1,4 +1,4 @@
-# 🏥 SIGMIH - Resilient & Secure Healthcare Management API
+# 🏥 SIGMIH - Resilient & Secure Healthcare Management
 
 ## 📌 Overview
 
@@ -168,7 +168,6 @@ The system prioritizes:
       </tr>
   </tbody>
 </table>
-
 
 Recommended:
 
