@@ -11,6 +11,7 @@ This project reflects real-world engineering practices applied to healthcare sys
 <div align="center"> 
   <img width=50% src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/wallpaper.webp" title="SIGMIH Wallpaper"/>
 </div>
+
 ---
 
 ## 🎯 Engineering Focus
