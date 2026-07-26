@@ -176,7 +176,7 @@ The system prioritizes:
       </tr>
       <tr>
        <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/analitics.webp" title="Analytics" /></td>
-       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/contability.webp" title="Stadics" /></td>
+       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/contability.webp" title="Statistics" /></td>
        <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/apidoc.webp" title="API Documentation" /></td>
       </tr>
       <tr>
