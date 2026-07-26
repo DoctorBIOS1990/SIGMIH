@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f726c&height=120&section=header"/>
+
 # 🏥 SIGMIH - Resilient & Secure Healthcare Management
 
 ## 📌 Overview
@@ -6,6 +8,9 @@
 
 This project reflects real-world engineering practices applied to healthcare systems, including **secure authentication, fault-tolerant data persistence, and future interoperability design**.
 
+<div align="center"> 
+  <img width=50% src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/wallpaper.webp" title="SIGMIH Wallpaper"/>
+</div>
 ---
 
 ## 🎯 Engineering Focus
@@ -164,8 +169,19 @@ The system prioritizes:
 <table>
   <tbody>
       <tr>
-       <td><img src="https://doctorbios1990.github.io/assets/images/webs/thumbs/th-sigmih.webp" width="800"/></td>
-       <td> <img src="https://doctorbios1990.github.io/assets/images/webs/sigmih.webp" width="1000" /></td>
+       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/collash.webp" title="Colllash some functions" /></td>
+       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/login.webp" title="Login page" /></td>
+       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/actions.webp" title="First page before login" /></td>
+      </tr>
+      <tr>
+       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/analitics.webp" title="Analytics" /></td>
+       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/contability.webp" title="Stadics" /></td>
+       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/apidoc.webp" title="API Documentation" /></td>
+      </tr>
+      <tr>
+       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/direct%20patient%20admissions.webp"/></td>
+       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/graphical%20report%20of%20expenditure%20behavior.webp" title="Selection random grahic" /></td>
+       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/user-guide.webp" title="User Guide" /></td>
       </tr>
   </tbody>
 </table>
