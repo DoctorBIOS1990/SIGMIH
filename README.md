@@ -180,7 +180,7 @@ The system prioritizes:
        <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/apidoc.webp" title="API Documentation" /></td>
       </tr>
       <tr>
-       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/direct%20patient%20admissions.webp"/></td>
+       <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/direct%20patient%20admissions.webp" title="Direct patient admissions"/></td>
        <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/graphical%20report%20of%20expenditure%20behavior.webp" title="Selection random grahic" /></td>
        <td><img src="https://github.com/DoctorBIOS1990/SIGMIH/blob/main/screenshots/user-guide.webp" title="User Guide" /></td>
       </tr>
